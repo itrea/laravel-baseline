@@ -3,8 +3,11 @@
 A simple starting point for our developers to quickly setup a Laravel 5.1 project with the skel css framework.
 This project uses jade and sass, feel free to add aditiional preprocessors to the resources/assets folder
 
-To get you started clone this repo
+To get you started run these commands
 ```bash
+git clone https://github.com/itrea/laravel-baseline.git
+
+cd laravel-baseline
 
 npm install
 
@@ -13,7 +16,6 @@ bower install
 sudo gulp
 
 php artisan serve
-
 
 ```
 Navigate to `http://localhost:8000` to view the project
