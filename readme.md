@@ -9,11 +9,17 @@ git clone https://github.com/itrea/laravel-baseline.git
 
 cd laravel-baseline
 
+composer install
+
 npm install
 
 bower install
 
 sudo gulp
+
+cp .env-example .env
+
+php artisan key:generate
 
 php artisan serve
 
