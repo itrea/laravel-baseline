@@ -1,0 +1,23 @@
+{
+  "name": "laravel-baseline",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Itrea Server Powered"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/assets/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "baseline": "skel-baseline#~3.0.0"
+  }
+}
