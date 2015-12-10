@@ -9,6 +9,8 @@ git clone https://github.com/itrea/laravel-baseline.git
 
 cd laravel-baseline
 
+composer install
+
 npm install
 
 bower install
